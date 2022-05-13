@@ -1,0 +1,1 @@
+const e={key:"v-3bbcf9f6",path:"/basics/move-object/",title:"\u7269\u9AD4\u79FB\u52D5",lang:"zh-TW",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652289224e3,contributors:[{name:"Vincent Chen",email:"grass527@gmail.com",commits:1}]},filePathRelative:"basics/move-object/README.md"};export{e as data};
